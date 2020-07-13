@@ -5,5 +5,5 @@ print("Hello world")
 10 * (2/0)
 
 # semantic error
-name = "Alice"
+name = "Alice in wonderland"
 print("Hello name")
